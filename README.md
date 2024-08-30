@@ -12,7 +12,7 @@ Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
 This project involved the summarization of over 2000 philosophical texts using the OpenAI API and the development of a recommendation system based on the summarized content.
 #### Test out yourself at [Fuse.com](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)!
 <p align="center">
-    <img src="images/FUSE.png">
+    <img src="FUSE.png">
 </p>
 
 
@@ -40,7 +40,7 @@ This project focuses on real-time facial emotion recognition using a combination
 
 #### Test out yourself on my [Streamlit Website](https://ferapp-axbsyhiuzlz2gvtrscjuj5.streamlit.app/)!
 <p align="center">
-    <img src="images/output.gif">
+    <img src="output.gif">
 </p>
 
 **Methodology:**
@@ -67,7 +67,7 @@ This article, published on [Medium](https://medium.com/@jeanlucaschindler/co2-em
 
 #### This is an example of prediction under the passive scenario (population and consumption rates persist without change)
 <p align="center">
-    <img src="images/Medium.webp">
+    <img src="Medium.webp">
 </p>
 
 **Methodology:**
@@ -94,7 +94,7 @@ Code source [here](https://github.com/JeanLucaSchindler/stock_prediction)!
 This project involves the analysis and prediction of Microsoft’s stock prices using historical data and an LSTM-based deep learning model.
 
 <p align="center">
-    <img src="images/stock_pred.png">
+    <img src="stock_pred.png">
 </p>
 
 **Methodology:**
@@ -119,7 +119,7 @@ Code source [here](https://github.com/JeanLucaSchindler/Sentiment-Analysis-for-F
 This project focuses on classifying financial news articles into sentiment categories using a deep learning model with pre-trained embeddings.
 
 <p align="center">
-    <img src="images/sentiment.webp">
+    <img src="sentiment.webp">
 </p>
 
 **Methodology:**
