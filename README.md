@@ -13,13 +13,13 @@ Welcome to my data science portfolio! This document provides an overview of my k
 
 ## Main Projects
 
-### 1. Philosophical Text Recommender System (Project for [Fuse.com](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data))
+### 1. Philosophical Text Recommender System (Project for [Fuse.com](https://desenv.fuse.online/))
 
 Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
 
 **Overview:**
 This project involved the summarization of over 2000 philosophical texts using the OpenAI API and the development of a recommendation system based on the summarized content.
-#### Test out yourself at [Fuse.com](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data)!
+#### Test out yourself at [Fuse.com](https://desenv.fuse.online/)!
 <p align="center">
     <img src="FUSE.png">
 </p>
