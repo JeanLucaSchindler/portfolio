@@ -2,6 +2,15 @@
 
 Welcome to my data science portfolio! This document provides an overview of my key projects, showcasing my skills in machine learning, natural language processing, time series forecasting, and deep learning. Each project includes a detailed description of the methodology, tools, and technologies used, as well as the results and key takeaways.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 ## Main Projects
 
 ### 1. Philosophical Text Recommender System (Project for [Fuse.com](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data))
@@ -31,6 +40,12 @@ This project involved the summarization of over 2000 philosophical texts using t
 - Successfully generated high-quality text summaries.
 - Developed a content-based recommendation system with efficient similarity computations, delivering accurate recommendations based on the user's input.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### 2. Data Science Bootcamp Final Project: Facial Emotion Recognition
 
 Code source [here](https://github.com/JeanLucaSchindler/FER)!
@@ -58,6 +73,12 @@ This project focuses on real-time facial emotion recognition using a combination
 - Achieved a 70% accuracy in classifying emotions from facial expressions.
 - Demonstrated the superiority of Inception-ResNet-V2 over other models in this context.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### 3. CO2 Emissions Forecasting
 
 Code source [here](https://colab.research.google.com/drive/1x35ajWf8aCJj72LWxrUElyYS79_KVxq1?usp=sharing)!
@@ -83,6 +104,14 @@ This article, published on [Medium](https://medium.com/@jeanlucaschindler/co2-em
 **Key Results:**
 - Provided actionable insights into global CO2 emissions trends and the effectiveness of different policy interventions.
 - Published a comprehensive analysis that serves as a roadmap for environmental policy discussions.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Other Projects
 
@@ -111,6 +140,12 @@ This project involves the analysis and prediction of Microsoft’s stock prices 
 - Achieved an RMSE of 7 on the test set, indicating strong predictive performance.
 - Visualized model predictions against actual stock prices, demonstrating the model’s effectiveness in financial forecasting.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ### 5. Sentiment Analysis for Financial News
 
 Code source [here](https://github.com/JeanLucaSchindler/Sentiment-Analysis-for-Financial-News)!
@@ -136,6 +171,14 @@ This project focuses on classifying financial news articles into sentiment categ
 **Key Results:**
 - Successfully classified financial news articles into sentiment categories with 77% accuracy.
 - Demonstrated the application of deep learning in financial sentiment analysis, with potential implications for market prediction and analysis.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Conclusion
 
