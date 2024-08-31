@@ -41,9 +41,9 @@ I’m passionate about the entire journey of crafting creative solutions through
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeanlucaschindler)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeanlucaschindler)](https://github.com/jeanlucaschindler)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucaschindler&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucaschindler&layout=compact)](https://github.com/jeanlucaschindler)
 
 &nbsp;
 
