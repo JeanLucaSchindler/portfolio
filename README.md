@@ -1,20 +1,58 @@
-# Jean Luca's Data Science Portfolio :)
+<p align="center">
+  <a target="_blank" rel="noreferrer"><img src="images/inspo.png" alt="my banner"></a>
+</p>
 
-Welcome to my data science portfolio! This document provides an overview of my key projects, showcasing my skills in machine learning, natural language processing, time series forecasting, and deep learning. Each project includes a detailed description of the methodology, tools, and technologies used, as well as the results and key takeaways.
+<h3 align="center">
+Hi there, I'm Jean 👋
+</h3>
 
-&nbsp;
+<h2 align="center">
+I'm a Data Science student 💻, with a strong passion for innovation and technology!
+</h2>
 
-&nbsp;
+I’m passionate about the entire journey of crafting creative solutions through data analytics and computational techniques to tackle real-world challenges. I thrive on uncovering patterns that go beyond human capability, pushing the boundaries of what we once thought was impossible. The thrill of learning how technology enables us to achieve feats that were unimaginable just a few years ago is what drives me every morning!
 
-&nbsp;
+</br>
+</br>
 
-&nbsp;
+### 🤝 Connect with me:
+
+<a href=https://www.linkedin.com/in/jeanlucaschindler><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/jean__schindler/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
+
+</br>
+</br>
 
 
-## Main Projects
+## 💼 Technical Skills
 
-### 1. Philosophical Text Recommender System (Project for [Fuse.com](https://desenv.fuse.online/))
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=Stata&color=764ABC)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=F7DF1E)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=CB3837)
 
+</br>
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=m&color=181717)
+
+</br>
+</br>
+
+## 📈 GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeanlucaschindler)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucaschindler&layout=compact)](https://github.com/yushi1007)
+
+</br>
+</br>
+
+## 📑Project 1: Philosophical Text Recommender System (Project for [Fuse.com](https://desenv.fuse.online/))
 Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
 
 **Overview:**
@@ -40,14 +78,10 @@ This project involved the summarization of over 2000 philosophical texts using t
 - Successfully generated high-quality text summaries.
 - Developed a content-based recommendation system with efficient similarity computations, delivering accurate recommendations based on the user's input.
 
-&nbsp;
+</br>
+</br>
 
-&nbsp;
-
-&nbsp;
-
-### 2. Data Science Bootcamp Final Project: Facial Emotion Recognition
-
+## 🙎🏽Project 2: Facial Emotion Recognition
 Code source [here](https://github.com/JeanLucaSchindler/FER)!
 
 **Overview:**
@@ -69,18 +103,10 @@ This project focuses on real-time facial emotion recognition using a combination
 - Inception-ResNet-V2 Architecture
 - AffectNet Dataset
 
-**Key Results:**
-- Achieved a 70% accuracy in classifying emotions from facial expressions.
-- Demonstrated the superiority of Inception-ResNet-V2 over other models in this context.
+</br>
+</br>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### 3. CO2 Emissions Forecasting
-
+## 🏭 Project 3:  CO2 Emissions Forecasting
 Code source [here](https://colab.research.google.com/drive/1x35ajWf8aCJj72LWxrUElyYS79_KVxq1?usp=sharing)!
 
 **Overview:**
@@ -105,18 +131,10 @@ This article, published on [Medium](https://medium.com/@jeanlucaschindler/co2-em
 - Provided actionable insights into global CO2 emissions trends and the effectiveness of different policy interventions.
 - Published a comprehensive analysis that serves as a roadmap for environmental policy discussions.
 
-&nbsp;
+</br>
+</br>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## Other Projects
-
-### 4. Stock Price Prediction and Analysis
-
+## 📈 Project 4: Stock Price Prediction and Analysis
 Code source [here](https://github.com/JeanLucaSchindler/stock_prediction)!
 
 **Overview:**
@@ -140,13 +158,10 @@ This project involves the analysis and prediction of Microsoft’s stock prices 
 - Achieved an RMSE of 7 on the test set, indicating strong predictive performance.
 - Visualized model predictions against actual stock prices, demonstrating the model’s effectiveness in financial forecasting.
 
-&nbsp;
+</br>
+</br>
 
-&nbsp;
-
-&nbsp;
-
-### 5. Sentiment Analysis for Financial News
+## 📰 Project 5: Sentiment Analysis for Financial News
 
 Code source [here](https://github.com/JeanLucaSchindler/Sentiment-Analysis-for-Financial-News)!
 
@@ -172,14 +187,9 @@ This project focuses on classifying financial news articles into sentiment categ
 - Successfully classified financial news articles into sentiment categories with 77% accuracy.
 - Demonstrated the application of deep learning in financial sentiment analysis, with potential implications for market prediction and analysis.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+</br>
+</br>
 
 ## Conclusion
 
-This portfolio showcases my expertise in various aspects of data science, including natural language processing, deep learning, time series forecasting, and machine learning. Through these projects, I have developed a deep understanding of both the technical and analytical challenges inherent in data science, and I am excited to bring these skills to new and challenging problems.
+This portfolio showcases my knowledge in various aspects of data science, including natural language processing, deep learning, time series forecasting, and machine learning. Through these projects, I have developed an understanding of both the technical and analytical challenges inherent in data science, and I am excited to bring these skills to new and challenging problems.
