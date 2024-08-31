@@ -12,13 +12,11 @@ I'm a Data Science student 💻, with a strong passion for innovation and techno
 
 I’m passionate about the entire journey of crafting creative solutions through data analytics and computational techniques to tackle real-world challenges. I thrive on uncovering patterns that go beyond human capability, pushing the boundaries of what we once thought was impossible. The thrill of learning how technology enables us to achieve feats that were unimaginable just a few years ago is what drives me every morning!
 
+&nbsp;
 
-### 🤝 Connect with me:
+&nbsp;
 
-<a href=https://www.linkedin.com/in/jeanlucaschindler><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/jean__schindler/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-
+&nbsp;
 
 ## 💼 Technical Skills
 
@@ -35,7 +33,11 @@ I’m passionate about the entire journey of crafting creative solutions through
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=m&color=181717)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 📈 GitHub Stats
 
@@ -43,7 +45,11 @@ I’m passionate about the entire journey of crafting creative solutions through
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlucaschindler&layout=compact)](https://github.com/yushi1007)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 📑Project 1: Philosophical Text Recommender System (Project for [Fuse.com](https://desenv.fuse.online/))
 Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
@@ -71,7 +77,11 @@ This project involved the summarization of over 2000 philosophical texts using t
 - Successfully generated high-quality text summaries.
 - Developed a content-based recommendation system with efficient similarity computations, delivering accurate recommendations based on the user's input.
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 🙎🏽Project 2: Facial Emotion Recognition
 Code source [here](https://github.com/JeanLucaSchindler/FER)!
@@ -95,7 +105,11 @@ This project focuses on real-time facial emotion recognition using a combination
 - Inception-ResNet-V2 Architecture
 - AffectNet Dataset
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 🏭 Project 3:  CO2 Emissions Forecasting
 Code source [here](https://colab.research.google.com/drive/1x35ajWf8aCJj72LWxrUElyYS79_KVxq1?usp=sharing)!
@@ -122,7 +136,11 @@ This article, published on [Medium](https://medium.com/@jeanlucaschindler/co2-em
 - Provided actionable insights into global CO2 emissions trends and the effectiveness of different policy interventions.
 - Published a comprehensive analysis that serves as a roadmap for environmental policy discussions.
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 📈 Project 4: Stock Price Prediction and Analysis
 Code source [here](https://github.com/JeanLucaSchindler/stock_prediction)!
@@ -148,7 +166,11 @@ This project involves the analysis and prediction of Microsoft’s stock prices 
 - Achieved an RMSE of 7 on the test set, indicating strong predictive performance.
 - Visualized model predictions against actual stock prices, demonstrating the model’s effectiveness in financial forecasting.
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## 📰 Project 5: Sentiment Analysis for Financial News
 
@@ -176,6 +198,11 @@ This project focuses on classifying financial news articles into sentiment categ
 - Successfully classified financial news articles into sentiment categories with 77% accuracy.
 - Demonstrated the application of deep learning in financial sentiment analysis, with potential implications for market prediction and analysis.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Conclusion
 
