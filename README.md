@@ -56,7 +56,7 @@ Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
 
 **Overview:**
 This project involved the summarization of over 2000 philosophical texts using the OpenAI API and the development of a recommendation system based on the summarized content.
-#### Test out yourself at [Fuse.com](https://desenv.fuse.online/)!
+#### Test out yourself at [Fuse.com](https://www.fuse.online/)!
 <p align="center">
     <img src="FUSE.png">
 </p>
