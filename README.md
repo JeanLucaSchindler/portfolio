@@ -51,7 +51,7 @@ I’m passionate about the entire journey of crafting creative solutions through
 
 &nbsp;
 
-## 📑Project 1: Philosophical Text Recommender System (Project for [Fuse.com](https://desenv.fuse.online/))
+## 📑Project 1: Philosophical Text Recommender System (Project for [Fuse.com](https://www.fuse.online/))
 Code source [here](https://github.com/JeanLucaSchindler/FUSE_Recommendations)!
 
 **Overview:**
