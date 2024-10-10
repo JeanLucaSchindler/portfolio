@@ -89,9 +89,8 @@ Code source [here](https://github.com/JeanLucaSchindler/FER)!
 **Overview:**
 This project focuses on real-time facial emotion recognition using a combination of face detection technology and a custom-trained deep learning model.
 
-#### Test out yourself on my [Streamlit Website](https://ferapp-axbsyhiuzlz2gvtrscjuj5.streamlit.app/)!
 <p align="center">
-    <img src="output.gif">
+    <img src="Final_project_Wagon-ezgif.com-video-to-gif-converter.gif">
 </p>
 
 **Methodology:**
